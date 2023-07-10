@@ -1,8 +1,10 @@
+
+## Gif Demo
+![Alt Text](profile/demo.gif)
+
 ## Presentation of the aplication 👋
 ![Alt Text](profile/Presentation.gif)
 
-## Gif Demo
-![Alt Text](profile/Demo.gif)
 
 
 <!--
