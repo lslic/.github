@@ -1,6 +1,10 @@
 
 ## Gif Demo
 <img src="profile/demo.gif" alt="Demo" width="60%"/>
+<img src="profile/demo.gif" style="max-width: 50%;
+max-height: 50%">
+
+
 
 
 ## Presentation of the aplication 👋
