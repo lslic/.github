@@ -1,6 +1,7 @@
 
 ## Gif Demo
-![Alt Text](profile/demo.gif)
+<img src="profile/demo.gif" alt="Demo" width="60%"/>
+
 
 ## Presentation of the aplication 👋
 ![Alt Text](profile/Presentation.gif)
