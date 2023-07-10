@@ -1,4 +1,4 @@
-## Hi there 👋
+## Presentation of the aplication 👋
 ![Alt Text](profile/Presentation.gif)
 
 <!--
